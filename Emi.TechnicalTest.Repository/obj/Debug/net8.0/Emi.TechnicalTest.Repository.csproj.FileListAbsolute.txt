@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\bin\Debug\net8.0\Emi.TechnicalTest.Repository.deps.json
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\bin\Debug\net8.0\Emi.TechnicalTest.Repository.runtimeconfig.json
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\bin\Debug\net8.0\Emi.TechnicalTest.Repository.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\bin\Debug\net8.0\Emi.TechnicalTest.Repository.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.AssemblyInfo.cs
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\refint\Emi.TechnicalTest.Repository.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.TechnicalTest.Repository.genruntimeconfig.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\ref\Emi.TechnicalTest.Repository.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Repository\obj\Debug\net8.0\Emi.Tech.6AC4DB7B.Up2Date

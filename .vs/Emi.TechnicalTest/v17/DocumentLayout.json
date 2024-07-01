@@ -1,0 +1,350 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB89A37-9C55-41E5-B8D5-395F3ADA7610}|Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB89A37-9C55-41E5-B8D5-395F3ADA7610}|Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj|solutionrelative:emi.technicaltest.repository\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF580C86-38CA-4483-98F4-67B393489137}|Emi.TechnicalTest.Services\\Emi.TechnicalTest.Services.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF580C86-38CA-4483-98F4-67B393489137}|Emi.TechnicalTest.Services\\Emi.TechnicalTest.Services.csproj|solutionrelative:emi.technicaltest.services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF580C86-38CA-4483-98F4-67B393489137}|Emi.TechnicalTest.Services\\Emi.TechnicalTest.Services.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF580C86-38CA-4483-98F4-67B393489137}|Emi.TechnicalTest.Services\\Emi.TechnicalTest.Services.csproj|solutionrelative:emi.technicaltest.services\\interfaces\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\middleware\\requestloggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\middleware\\requestloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\middleware\\requestloggingmiddlewareextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\model\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\dto\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\dto\\userlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB89A37-9C55-41E5-B8D5-395F3ADA7610}|Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.repository\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7AB89A37-9C55-41E5-B8D5-395F3ADA7610}|Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj|solutionrelative:emi.technicaltest.repository\\employeemanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\model\\positionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\model\\positionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\model\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\model\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CE54449-F74F-43B8-BBD4-2C84206BF161}|Emi.TechnicalTest.BusinessLogic\\Emi.TechnicalTest.BusinessLogic.csproj|solutionrelative:emi.technicaltest.businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7AB89A37-9C55-41E5-B8D5-395F3ADA7610}|Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest.repository\\emi.technicaltest.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{7AB89A37-9C55-41E5-B8D5-395F3ADA7610}|Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj|solutionrelative:emi.technicaltest.repository\\emi.technicaltest.repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|c:\\users\\andre\\source\\repos\\emi.technicaltest\\emi.technicaltest\\emi.technicaltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4044978F-7641-4C07-865B-B96F87D0C14C}|Emi.TechnicalTest\\Emi.TechnicalTest.csproj|solutionrelative:emi.technicaltest\\emi.technicaltest.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.Services\\Interfaces\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Services\\Interfaces\\IEmployeeService.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.Services\\Interfaces\\IEmployeeService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABEAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T13:43:20.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Emi.TechnicalTest\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:30:35.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RequestLoggingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Middleware\\RequestLoggingMiddleware.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Middleware\\RequestLoggingMiddleware.cs",
+              "RelativeToolTip": "Emi.TechnicalTest\\Middleware\\RequestLoggingMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:38:21.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RequestLoggingMiddlewareExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "RelativeToolTip": "Emi.TechnicalTest\\Middleware\\RequestLoggingMiddlewareExtensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:38:19.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Emi.TechnicalTest\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-01T03:33:11.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Dto\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Dto\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Dto\\UserLogin.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Dto\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:29:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserLogin.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\UserLogin.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Model\\UserLogin.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\UserLogin.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Model\\UserLogin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:29:44.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Emi.TechnicalTest\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAIAwwA8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T03:29:19.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.Repository\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:07:22.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\Project.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Model\\Project.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\Project.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Model\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:05:30.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PositionHistory.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\PositionHistory.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Model\\PositionHistory.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\PositionHistory.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Model\\PositionHistory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:04:31.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\Employee.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBcAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:04:06.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\Department.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Model\\Department.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Model\\Department.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Model\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:03:28.495Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\appsettings.json",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\appsettings.json",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\appsettings.json",
+              "RelativeToolTip": "Emi.TechnicalTest\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-30T17:09:23.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Program.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Program.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Program.cs",
+              "RelativeToolTip": "Emi.TechnicalTest\\Program.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAIAwwFQAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:09:20.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeManagementDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Repository\\EmployeeManagementDbContext.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.Repository\\EmployeeManagementDbContext.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Repository\\EmployeeManagementDbContext.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.Repository\\EmployeeManagementDbContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAzwBAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T16:56:14.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Emi.TechnicalTest.Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj",
+              "RelativeToolTip": "Emi.TechnicalTest.Repository\\Emi.TechnicalTest.Repository.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T15:56:43.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Emi.TechnicalTest.csproj",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Emi.TechnicalTest.csproj",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest\\Emi.TechnicalTest.csproj",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest\\Emi.TechnicalTest.csproj",
+              "RelativeToolTip": "Emi.TechnicalTest\\Emi.TechnicalTest.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-30T15:51:06.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.Services\\EmployeeService.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.Services\\EmployeeService.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAD4v4QAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:51:00.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "Emi.TechnicalTest.BusinessLogic\\Class1.cs",
+              "ToolTip": "C:\\Users\\andre\\source\\repos\\Emi.TechnicalTest\\Emi.TechnicalTest.BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "Emi.TechnicalTest.BusinessLogic\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T15:50:35.849Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

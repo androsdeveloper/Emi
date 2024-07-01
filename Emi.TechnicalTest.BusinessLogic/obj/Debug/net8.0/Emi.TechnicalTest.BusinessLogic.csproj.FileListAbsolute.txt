@@ -1,0 +1,11 @@
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.deps.json
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.AssemblyInfo.cs
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\refint\Emi.TechnicalTest.BusinessLogic.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.BusinessLogic\obj\Debug\net8.0\ref\Emi.TechnicalTest.BusinessLogic.dll

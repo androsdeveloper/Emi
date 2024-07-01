@@ -1,0 +1,17 @@
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.Services.deps.json
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.Services.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.Services.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.AssemblyInfo.cs
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\refint\Emi.TechnicalTest.Services.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\ref\Emi.TechnicalTest.Services.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.Repository.dll
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.BusinessLogic.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\bin\Debug\net8.0\Emi.TechnicalTest.Repository.pdb
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.TechnicalTest.Services.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\Emi.TechnicalTest\Emi.TechnicalTest.Services\obj\Debug\net8.0\Emi.Tech.1E9F323E.Up2Date
